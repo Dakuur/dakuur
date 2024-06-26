@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Morillo</h1>
+<h1 align="center">David Morillo</h1>
 <h3 align="center">Data Engineering Student at Universitat Autònoma de Barcelona</h3>
 
 <h3 align="left">Connect with me:</h3>
